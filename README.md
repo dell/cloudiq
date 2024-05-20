@@ -1,13 +1,14 @@
 # CloudIQ
 
----
 **Warning: this repository has been archived.**
+
 On May 20th, 2024, CloudIQ has been rebranded APEX AIOps Infrastructure Observability. 
 The CloudIQ content previously maintained here is now accessible via this new APEX AIOps repository:
 
 https://github.com/dell/apex-aiops
 
 under the /infrastructure-observability folder.
+
 ---
 
 CloudIQ is the AIOps application that provides proactive health monitoring, recommendations, and predictive analytics for Dell infrastructure systems.
